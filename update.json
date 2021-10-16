@@ -1,4 +1,6 @@
-{"isUpdate":"1.2.0", "updateMessage":"（新版本发布之后，旧版本将不再维护，请及时更新）
+{"isUpdate":"2.0.0", "updateMessage":"V 2.0.0（重大更新）
 
-V 1.2.0
-    优化小营校区查询数据", "updateUrl":"https://down.xckjf.org/downpage/d918a90df76d4829"}
+    1. 优化了查询数据
+    2. 重写了内核算法
+    3. 服务器迁至北京
+    4. 修复了一些BUG ", "updateUrl":"https://down.xckjf.org/downpage/d918a90df76d4829"}
